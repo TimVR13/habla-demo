@@ -37,7 +37,6 @@ h3 { font-size: 18px; margin-top: 1.2em; }
 .toc { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
 .toc a { background: var(--surface-2); border-radius: 999px; padding: 4px 12px; font-size: 14.5px; color: var(--ink); text-decoration: none; }
 .ex { display: flex; gap: 10px; align-items: flex-start; padding: 8px 0; border-top: 1px solid var(--line); }
-.say { flex: none; width: 34px; height: 34px; border-radius: 50%; border: 0; background: var(--accent-soft); color: var(--accent); cursor: pointer; font-size: 13px; }
 .table { overflow-x: auto; }
 table { border-collapse: collapse; width: 100%; }
 td, th { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
@@ -78,3 +77,17 @@ details summary { cursor: pointer; color: var(--accent); font-size: 15px; }
 .seg button { border: 1px solid var(--line); background: var(--surface); color: var(--ink); border-radius: 999px; padding: 5px 14px; cursor: pointer; font: 600 15px var(--font-body); }
 .seg button[aria-pressed="true"] { background: var(--accent); color: #fff; border-color: var(--accent); }
 @media (max-width: 520px) { .q-opts { grid-template-columns: minmax(0, 1fr); } .top nav { order: 3; width: 100%; padding-bottom: 8px; } }
+
+.q-end { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 12px; }
+.quiz-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.level-pick { font-size: 15px; }
+.level-pick summary { list-style: none; color: var(--muted); }
+.level-pick summary::-webkit-details-marker { display: none; }
+.level-pick summary::after { content: ' ▾'; }
+.level-pick[open] .seg { margin-top: 8px; }
+/* Tables fit a phone screen: smaller type, tight cells, wrap instead of sideways scrolling. */
+@media (max-width: 560px) {
+  table { font-size: 14.5px; }
+  td, th { padding: 5px 6px; overflow-wrap: anywhere; }
+  .card { padding: 16px; }
+}
