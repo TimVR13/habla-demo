@@ -119,3 +119,13 @@ details summary { cursor: pointer; color: var(--accent); font-size: 15px; paddin
 .cols li { padding: 4px 0; break-inside: avoid; }
 .reading p[lang] { font-size: 18px; }
 @media (max-width: 560px) { .word img { width: 56px; height: 56px; } }
+
+/* Word pages */
+.word-head { display: flex; gap: 16px; align-items: center; }
+.word-head img { flex: none; width: 96px; height: 96px; }
+.word-head .lead { margin: 0; }
+.letters { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 16px; }
+.letters a, .letters b { min-width: 40px; min-height: 40px; display: inline-grid; place-items: center; border-radius: 10px; background: var(--surface, #fff); border: 1px solid var(--line, #e5ddd5); text-decoration: none; font-weight: 700; }
+.letters b { background: var(--accent, #E2502F); color: #fff; border-color: transparent; }
+@media (max-width: 480px) { .word-head img { width: 72px; height: 72px; } }
+[hidden] { display: none !important; }
