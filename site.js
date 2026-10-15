@@ -36,7 +36,9 @@
       var p = h('p', 'q-prompt'); p.lang = 'es';
       var parts = it[0].split('___');
       p.appendChild(document.createTextNode(parts[0]));
-      var gap = h('span', 'q-gap', '…'); p.appendChild(gap);
+      // A prompt without a gap (a word to translate, a question) is shown as is.
+      var gap = parts.length > 1 ? h('span', 'q-gap', '…') : h('span');
+      if (parts.length > 1) p.appendChild(gap);
       if (parts[1]) p.appendChild(document.createTextNode(parts[1]));
       box.appendChild(p);
       box.appendChild(h('p', 'muted', it[3]));
@@ -51,7 +53,7 @@
           var ok = o === it[1];
           if (ok) score++;
           opts.querySelectorAll('button').forEach(function (x) { x.disabled = true; if (x.textContent === it[1]) x.className = 'right'; else if (x === b) x.className = 'wrong'; });
-          gap.textContent = it[1];
+          if (parts.length > 1) gap.textContent = it[1];
           fb.hidden = false;
           fb.textContent = (ok ? '¡Correcto! ' : 'Правильно: ' + it[1] + '. ') + (it[4] || '');
           next.hidden = false;

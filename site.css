@@ -97,7 +97,7 @@ details summary { cursor: pointer; color: var(--accent); font-size: 15px; paddin
 @media (max-width: 560px) {
   .top { position: static; }
   .top-in { gap: 8px 12px; padding: 8px 0; }
-  .top nav { gap: 4px 16px; }
+  .top nav { gap: 4px 16px; flex: 1 1 100%; order: 3; }
   .top nav a { display: inline-block; padding: 8px 0; }
   .crumbs a { display: inline-block; padding: 6px 0; }
   .seg button { min-height: 40px; }
@@ -106,3 +106,16 @@ details summary { cursor: pointer; color: var(--accent); font-size: 15px; paddin
   .lead.big { font-size: 19px; }
   .foot a { display: inline-block; padding: 6px 0; }
 }
+
+/* Vocabulary pages */
+.words { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; }
+.word { display: flex; gap: 14px; padding: 12px 0; border-top: 1px solid var(--line); align-items: flex-start; }
+.word:first-child { border-top: 0; }
+.word img { flex: none; width: 72px; height: 72px; border-radius: 16px; background: var(--surface-2); }
+.word img { object-fit: contain; padding: 6px; }
+.word-ex { list-style: none; margin: 6px 0 0; padding: 0; font-size: 15.5px; }
+.word-ex li { margin: 4px 0; }
+.cols { columns: 2 220px; margin: 0; padding-left: 1.1em; }
+.cols li { padding: 4px 0; break-inside: avoid; }
+.reading p[lang] { font-size: 18px; }
+@media (max-width: 560px) { .word img { width: 56px; height: 56px; } }
