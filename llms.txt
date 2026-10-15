@@ -12,39 +12,39 @@
 - [О проекте](https://timvr13.github.io/habla-demo/o-proekte/)
 
 ## Темы грамматики
-- [Глагол ser в испанском](https://timvr13.github.io/habla-demo/grammatika/ser/) (A1): ser — «быть» для постоянного: кто ты, откуда, профессия, характер.
-- [Артикли el, la, los, las в испанском](https://timvr13.github.io/habla-demo/grammatika/articles/) (A1): el — мужской род, la — женский.
-- [Глагол tener в испанском](https://timvr13.github.io/habla-demo/grammatika/tener/) (A1): tener — «иметь»: tengo, tienes, tiene, tenemos, tenéis, tienen.
-- [Настоящее время в испанском (presente)](https://timvr13.github.io/habla-demo/grammatika/present-ar/) (A1): Отбрасываем окончание и добавляем: -ar → -o, -as, -a, -amos, -áis, -an; -er → -o, -es, -e, -emos, -éis, -en; -ir → -o, -es, -e, -imos, -ís, -en..
-- [Глагол gustar: как сказать «мне нравится»](https://timvr13.github.io/habla-demo/grammatika/gustar/) (A1): gustar работает как «нравится»: me gusta + единственное число, me gustan + множественное.
-- [Hay и estar в испанском](https://timvr13.github.io/habla-demo/grammatika/hay-estar/) (A1): hay — «есть, имеется» (что-то неопределённое).
-- [Множественное число в испанском](https://timvr13.github.io/habla-demo/grammatika/plural/) (A1): После гласной добавляем -s (libro → libros, café → cafés), после согласной -es (flor → flores, ciudad → ciudades).
-- [Согласование прилагательных в испанском](https://timvr13.github.io/habla-demo/grammatika/adjetivos/) (A1): Прилагательное согласуется с существительным в роде и числе и обычно стоит после него: un gato negro, una casa blanca, gatos negros.
-- [Este, ese, aquel в испанском](https://timvr13.github.io/habla-demo/grammatika/demostrativos/) (A1): este / esta / estos / estas — «этот» (рядом со мной), ese / esa / esos / esas — «тот» (рядом с собеседником), aquel / aquella / aquellos / aquellas — «вон тот» (далеко).
-- [Притяжательные: mi, tu, su в испанском](https://timvr13.github.io/habla-demo/grammatika/posesivos/) (A1): mi / mis, tu / tus, su / sus согласуются с предметом, а не с владельцем: mis libros.
-- [Числа в испанском языке](https://timvr13.github.io/habla-demo/grammatika/numeros/) (A1): 16–29 пишутся слитно: dieciséis, veintiuno, veinticinco.
-- [Время в испанском: который час](https://timvr13.github.io/habla-demo/grammatika/hora/) (A1): ¿Qué hora es? — Es la una (только для часа), Son las dos, las tres… Минуты: y cuarto, y media, menos cuarto (son las seis menos cuarto = 5:45).
+- [Глагол ser в испанском](https://timvr13.github.io/habla-demo/grammatika/ser/) (A1): ser — «быть»: кто ты, откуда, какой.
+- [Артикли el, la, los, las в испанском](https://timvr13.github.io/habla-demo/grammatika/articles/) (A1): el — перед словом мужского рода, la — женского: el libro (книга), la casa (дом).
+- [Глагол tener в испанском](https://timvr13.github.io/habla-demo/grammatika/tener/) (A1): tener — «иметь, у меня есть»: tengo (у меня есть), tienes (у тебя), tiene (у него, у неё, у вас), tenemos (у нас), tienen (у них).
+- [Настоящее время в испанском (presente)](https://timvr13.github.io/habla-demo/grammatika/present-ar/) (A1): Отрезаем -ar / -er / -ir и добавляем окончание лица.
+- [Глагол gustar: как сказать «мне нравится»](https://timvr13.github.io/habla-demo/grammatika/gustar/) (A1): gustar = «нравиться», а не «любить».
+- [Hay и estar в испанском](https://timvr13.github.io/habla-demo/grammatika/hay-estar/) (A1): hay — «есть, имеется» (что-то новое, без el / la), одна форма на всё: Hay un banco aquí (здесь есть банк), Hay dos bancos (есть два банка).
+- [Множественное число в испанском](https://timvr13.github.io/habla-demo/grammatika/plural/) (A1): После гласной добавляем -s: libro → libros (книги), café → cafés.
+- [Согласование прилагательных в испанском](https://timvr13.github.io/habla-demo/grammatika/adjetivos/) (A1): Прилагательное стоит после слова и согласуется с ним в роде и числе: un gato negro (чёрный кот), una casa blanca (белый дом), los gatos negros (чёрные коты).
+- [Este, ese, aquel в испанском](https://timvr13.github.io/habla-demo/grammatika/demostrativos/) (A1): este / esta — «этот / эта» (рядом со мной): este libro (эта книга), esta casa (этот дом).
+- [Притяжательные: mi, tu, su в испанском](https://timvr13.github.io/habla-demo/grammatika/posesivos/) (A1): Форма зависит от того, сколько предметов: mi casa (мой дом), mis libros (мои книги); tu / tus — твой, твои; su / sus — его, её, их, ваш.
+- [Числа в испанском языке](https://timvr13.github.io/habla-demo/grammatika/numeros/) (A1): 0–10: cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.
+- [Время в испанском: который час](https://timvr13.github.io/habla-demo/grammatika/hora/) (A1): ¿Qué hora es? (Который час?) — Es la una (Сейчас час), Son las dos (Сейчас два часа).
 - [Вопросительные слова в испанском](https://timvr13.github.io/habla-demo/grammatika/preguntas/) (A1): qué — что, quién — кто, dónde — где, cuándo — когда, cómo — как, cuánto / cuántos / cuántas — сколько, cuál — какой (из), por qué — почему.
-- [Отрицание: no, nunca, nada в испанском](https://timvr13.github.io/habla-demo/grammatika/negacion/) (A1): no ставится перед глаголом: No hablo alemán.
-- [Ir a + инфинитив в испанском](https://timvr13.github.io/habla-demo/grammatika/ir-a/) (A1): Ближайшее будущее и планы: ir в настоящем + a + инфинитив.
+- [Отрицание: no, nunca, nada в испанском](https://timvr13.github.io/habla-demo/grammatika/negacion/) (A1): No — прямо перед глаголом: No hablo alemán (Я не говорю по-немецки).
+- [Ir a + инфинитив в испанском](https://timvr13.github.io/habla-demo/grammatika/ir-a/) (A1): Будущее и планы: voy, vas, va, vamos, van + a + глагол в начальной форме.
 - [Предлоги места в испанском](https://timvr13.github.io/habla-demo/grammatika/prep-lugar/) (A1): en — в, на; encima de — на, сверху; debajo de — под; delante de / detrás de — перед / за; al lado de — рядом с; entre — между; cerca de / lejos de — близко / далеко от; dentro de / fuera de — внутри / снаружи.
-- [Muy и mucho в испанском](https://timvr13.github.io/habla-demo/grammatika/muy-mucho/) (A1): muy — «очень» перед прилагательным и наречием: muy alto, muy cerca.
-- [Глаголы с чередованием в испанском](https://timvr13.github.io/habla-demo/grammatika/stem-change/) (A2): В ударном слоге o → ue (poder → puedo), e → ie (querer → quiero), e → i (pedir → pido).
-- [Возвратные глаголы в испанском](https://timvr13.github.io/habla-demo/grammatika/reflexive/) (A2): Глаголы на -se: me, te, se, nos, os, se ставятся перед глаголом.
-- [Pretérito indefinido: правильные глаголы](https://timvr13.github.io/habla-demo/grammatika/indefinido-reg/) (A2): Законченное действие в прошлом.
-- [Pretérito indefinido: неправильные глаголы](https://timvr13.github.io/habla-demo/grammatika/indefinido-irr/) (A2): ser и ir совпадают: fui, fuiste, fue, fuimos, fuisteis, fueron.
-- [Por и para: в чём разница](https://timvr13.github.io/habla-demo/grammatika/por-para/) (A2): para — цель, получатель, срок (para ti, para mañana).
-- [Ser и estar: в чём разница](https://timvr13.github.io/habla-demo/grammatika/ser-estar/) (A2): ser — суть и постоянное.
-- [Сравнение: más que, tan como в испанском](https://timvr13.github.io/habla-demo/grammatika/comparativos/) (A2): más / menos + прилагательное + que: más alto que yo.
-- [Превосходная степень в испанском](https://timvr13.github.io/habla-demo/grammatika/superlativos/) (A2): el / la / los / las + más + прилагательное + de: el edificio más alto de la ciudad, el mejor día de mi vida.
-- [Прямое дополнение: lo, la, los, las в испанском](https://timvr13.github.io/habla-demo/grammatika/od-pronombres/) (A2): Заменяют «кого? что?»: lo (м.
-- [Косвенное дополнение: le, les в испанском](https://timvr13.github.io/habla-demo/grammatika/oi-pronombres/) (A2): Отвечают на «кому?»: me, te, le, nos, os, les.
+- [Muy и mucho в испанском](https://timvr13.github.io/habla-demo/grammatika/muy-mucho/) (A1): Muy — «очень» перед прилагательным и наречием: muy alto (очень высокий), muy cerca (очень близко).
+- [Глаголы с чередованием в испанском](https://timvr13.github.io/habla-demo/grammatika/stem-change/) (A2): В некоторых глаголах гласная корня меняется, когда на неё падает ударение: o → ue, e → ie, e → i.
+- [Возвратные глаголы в испанском](https://timvr13.github.io/habla-demo/grammatika/reflexive/) (A2): У глагола с -se (levantarse — вставать) частица меняется по лицам и стоит перед глаголом: me levanto (я встаю), te levantas (ты встаёшь), se levanta (он встаёт), nos levantamos (мы встаём), se levantan (они встают).
+- [Pretérito indefinido: правильные глаголы](https://timvr13.github.io/habla-demo/grammatika/indefinido-reg/) (A2): Indefinido — законченное действие в прошлом (ayer, el año pasado).
+- [Pretérito indefinido: неправильные глаголы](https://timvr13.github.io/habla-demo/grammatika/indefinido-irr/) (A2): У частых глаголов в прошедшем особый корень и окончания без ударения: tuve (у меня был), estuve (я был где-то), hice (я сделал), hizo (он сделал), dije (я сказал), pude (я смог).
+- [Por и para: в чём разница](https://timvr13.github.io/habla-demo/grammatika/por-para/) (A2): para — цель, «для кого», куда, к какому сроку: para ti (для тебя), para aprender (чтобы выучить), salgo para Madrid (еду в Мадрид), para el lunes (к понедельнику).
+- [Ser и estar: в чём разница](https://timvr13.github.io/habla-demo/grammatika/ser-estar/) (A2): ser — кто, что, какой по сути, откуда, который час: Soy médico (я врач), Es alto (он высокий), Son las dos (два часа).
+- [Сравнение: más que, tan como в испанском](https://timvr13.github.io/habla-demo/grammatika/comparativos/) (A2): Больше / меньше: más / menos + слово + que: más alto que yo (выше меня), menos caro que el otro (дешевле того).
+- [Превосходная степень в испанском](https://timvr13.github.io/habla-demo/grammatika/superlativos/) (A2): «Самый» = el / la / los / las + más + прилагательное + de: el edificio más alto de la ciudad (самое высокое здание в городе), la mejor película del año (лучший фильм года).
+- [Прямое дополнение: lo, la, los, las в испанском](https://timvr13.github.io/habla-demo/grammatika/od-pronombres/) (A2): «Кого? что?» заменяют lo (его — м.
+- [Косвенное дополнение: le, les в испанском](https://timvr13.github.io/habla-demo/grammatika/oi-pronombres/) (A2): Кому? → me (мне), te (тебе), le (ему, ей, вам), nos (нам), les (им, вам).
 - [Estar + герундий в испанском](https://timvr13.github.io/habla-demo/grammatika/estar-gerundio/) (A2): Действие прямо сейчас: estar + герундий.
-- [Tener que, hay que в испанском](https://timvr13.github.io/habla-demo/grammatika/obligacion/) (A2): tener que + инфинитив — «я должен, мне нужно» (лично): Tengo que trabajar.
-- [Poder, querer, saber + инфинитив в испанском](https://timvr13.github.io/habla-demo/grammatika/modales/) (A2): poder — «мочь» (есть возможность): puedo, puedes.
-- [Наречия на -mente в испанском](https://timvr13.github.io/habla-demo/grammatika/adverbios-mente/) (A2): К женской форме прилагательного добавляем -mente: lento → lentamente.
-- [Ya и todavía в испанском](https://timvr13.github.io/habla-demo/grammatika/ya-todavia/) (A2): ya — «уже», ya no — «больше не» (Ya no vivo aquí).
-- [Глагол doler в испанском](https://timvr13.github.io/habla-demo/grammatika/doler/) (A2): doler работает как gustar: me / te / le / nos / os / les + duele + единственное число, duelen + множественное.
+- [Tener que, hay que в испанском](https://timvr13.github.io/habla-demo/grammatika/obligacion/) (A2): tener que + инфинитив — «мне нужно» (лично): Tengo que trabajar (мне нужно работать).
+- [Poder, querer, saber + инфинитив в испанском](https://timvr13.github.io/habla-demo/grammatika/modales/) (A2): poder — «мочь» (есть возможность): Hoy no puedo salir (сегодня я не могу выйти).
+- [Наречия на -mente в испанском](https://timvr13.github.io/habla-demo/grammatika/adverbios-mente/) (A2): Женская форма прилагательного + -mente: lento → lentamente (медленно), rápido → rápidamente (быстро).
+- [Ya и todavía в испанском](https://timvr13.github.io/habla-demo/grammatika/ya-todavia/) (A2): ya — «уже»: Ya estoy en casa (я уже дома).
+- [Глагол doler в испанском](https://timvr13.github.io/habla-demo/grammatika/doler/) (A2): doler устроен как gustar: болит часть тела, а человек — me, te, le, nos, les.
 - [Повелительное наклонение в испанском](https://timvr13.github.io/habla-demo/grammatika/imperativo/) (B1): Для tú берём форму él в настоящем: habla, come.
 - [Pretérito perfecto в испанском](https://timvr13.github.io/habla-demo/grammatika/perfecto/) (B1): haber + причастие: he comido, has visto.
 - [Imperfecto и indefinido: в чём разница](https://timvr13.github.io/habla-demo/grammatika/imperfecto/) (B1): imperfecto — фон, привычка, описание (cuando era niño, siempre jugaba).
@@ -66,7 +66,7 @@
 - [Условные предложения с si в испанском](https://timvr13.github.io/habla-demo/grammatika/si-clauses/) (B2): Нереальное условие: si + imperfecto de subjuntivo + condicional.
 - [Пассив с se в испанском](https://timvr13.github.io/habla-demo/grammatika/pasiva-se/) (B2): se + глагол в 3-м лице согласуется с предметом: se vende casa / se venden casas.
 - [Para que + subjuntivo в испанском](https://timvr13.github.io/habla-demo/grammatika/subj-finalidad/) (B2): Цель с другим исполнителем: para que + subjuntivo (Te lo explico para que lo entiendas).
-- [Subjuntivo в относительных в испанском](https://timvr13.github.io/habla-demo/grammatika/subj-relativo/) (B2): Если то, о чём говорим, неизвестно или не существует, — subjuntivo: No conozco a nadie que hable ruso.
+- [Subjuntivo в относительных в испанском](https://timvr13.github.io/habla-demo/grammatika/subj-relativo/) (B2): Если то, о чём говорим, неизвестно или не существует, — subjuntivo: No conozco a nadie que hable japonés.
 - [Futuro perfecto в испанском](https://timvr13.github.io/habla-demo/grammatika/futuro-perfecto/) (B2): habré, habrás, habrá, habremos, habréis, habrán + причастие.
 - [Condicional perfecto в испанском](https://timvr13.github.io/habla-demo/grammatika/condicional-perfecto/) (B2): habría, habrías, habría, habríamos, habríais, habrían + причастие — «сделал бы (но не сделал)»: Yo no lo habría dicho.
 - [Si hubiera…, habría… в испанском](https://timvr13.github.io/habla-demo/grammatika/si-pasado/) (B2): Нереальное условие в прошлом: si + pluscuamperfecto de subjuntivo + condicional perfecto.
