@@ -96,7 +96,7 @@ details summary { cursor: pointer; color: var(--accent); font-size: 15px; paddin
 /* Phones: the header scrolls away instead of taking a third of the screen; links are easy to tap. */
 @media (max-width: 560px) {
   .top { position: static; }
-  .top-in { gap: 8px 12px; padding: 8px 0; }
+  .top-in { gap: 8px 12px; padding: 8px 16px; }
   .top nav { gap: 4px 16px; flex: 1 1 100%; order: 3; }
   .top nav a { display: inline-block; padding: 8px 0; }
   .crumbs a { display: inline-block; padding: 6px 0; }
