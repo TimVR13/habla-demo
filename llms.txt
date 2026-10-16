@@ -12,7 +12,7 @@
 - [О проекте](https://timvr13.github.io/habla-demo/o-proekte/)
 
 ## Темы грамматики
-- [Буквы и гласные в испанском](https://timvr13.github.io/habla-demo/grammatika/alfabeto/) (A0): Испанский читается так, как пишется.
+- [Буквы и гласные в испанском](https://timvr13.github.io/habla-demo/grammatika/alfabeto/) (A0): Многие испанские слова читаются так, как пишутся, но у некоторых букв есть свои правила (их разберём в теме о согласных).
 - [el и la: слово вместе с артиклем; одно и много в испанском](https://timvr13.github.io/habla-demo/grammatika/el-la/) (A0): Слово учим сразу с артиклем: «мужской род» на карточке — el, «женский род» — la: el limón (лимон), la mesa (стол).
 - [Как читаются согласные в испанском](https://timvr13.github.io/habla-demo/grammatika/consonantes/) (A0): h не читается: hola — «О-ла» (привет).
 - [Ударение и знак ´ в испанском](https://timvr13.github.io/habla-demo/grammatika/acento/) (A0): Слово кончается на гласную, n или s — ударение на предпоследний слог: CA-sa (дом), JO-ven (молодой).

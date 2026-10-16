@@ -37,6 +37,7 @@ h3 { font-size: 18px; margin-top: 1.2em; }
 .toc { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
 .toc a { background: var(--surface-2); border-radius: 999px; padding: 8px 14px; font-size: 14.5px; color: var(--ink); text-decoration: none; }
 .ex { display: flex; gap: 10px; align-items: flex-start; padding: 8px 0; border-top: 1px solid var(--line); }
+.ex .read { color: #2f8f5b; font-size: .95em; }
 .table { overflow-x: auto; }
 table { border-collapse: collapse; width: 100%; }
 td, th { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
