@@ -24,7 +24,7 @@ h3 { font-size: 18px; margin-top: 1.2em; }
 .top nav a { color: var(--ink); text-decoration: none; }
 .top nav a:hover { color: var(--accent); }
 .brand { display: flex; align-items: center; gap: 8px; font: 800 20px var(--font-display); color: var(--ink); text-decoration: none; }
-.mark { background: var(--accent); color: #fff; border-radius: 10px; width: 32px; height: 32px; display: grid; place-items: center; font-size: 13px; }
+.mark { background: linear-gradient(135deg, #9BE36D, #3FA34D 70%, #2C7A3A); color: #fff; border-radius: 10px; width: 32px; height: 32px; display: grid; place-items: center; font-size: 18px; }
 .crumbs { font-size: 14px; color: var(--muted); margin-top: 18px; }
 .crumbs a { color: var(--muted); }
 .meta { color: var(--muted); font-size: 15px; }
@@ -61,7 +61,23 @@ details summary { cursor: pointer; color: var(--accent); font-size: 15px; paddin
 .features { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 0 16px; margin-top: 18px; }
 .pager a { display: inline-block; padding: 10px 0; }
 .pager { display: flex; justify-content: space-between; gap: 12px; margin: 24px 0; flex-wrap: wrap; }
-.foot { border-top: 1px solid var(--line); margin-top: 40px; padding: 20px 0 40px; font-size: 15px; color: var(--muted); }
+.foot { margin-top: 48px; padding: 34px 0 calc(28px + env(safe-area-inset-bottom)); font-size: 15px; background: #1F3A26; color: #D8E8D9; border-radius: 28px 28px 0 0; }
+.foot a { color: #F2FAF2; text-decoration: none; }
+.foot a:hover { text-decoration: underline; }
+.foot-top { display: grid; grid-template-columns: 1.6fr 1fr 1fr 1fr; gap: 24px; }
+.foot .brand { color: #fff; }
+.foot-brand p { margin: 10px 0 14px; color: #B9D3BC; line-height: 1.5; }
+.foot-brand .btn { background: #4CAF50; color: #fff; }
+.foot-col { display: flex; flex-direction: column; gap: 4px; }
+.foot-col b { color: #fff; font-family: var(--font-display); margin-bottom: 4px; }
+.foot-col a { padding: 5px 0; }
+.foot-bottom { margin: 26px 0 0; padding-top: 16px; border-top: 1px solid rgba(255,255,255,.12); font-size: 13.5px; color: #9FBCA3; }
+@media (max-width: 760px) {
+  .foot-top { grid-template-columns: 1fr 1fr; gap: 20px 16px; }
+  .foot-brand { grid-column: 1 / -1; }
+  .foot-brand .btn { display: block; text-align: center; }
+  .foot-col a { padding: 8px 0; }
+}
 /* Quiz */
 .quiz { margin-top: 12px; }
 .q-prompt { font: 700 24px var(--font-display); margin: 10px 0 4px; }
@@ -117,7 +133,6 @@ details summary { cursor: pointer; color: var(--accent); font-size: 15px; paddin
   .level-pick summary { padding: 8px 0; }
   .btn.big { width: 100%; text-align: center; margin: 6px 0; }
   .lead.big { font-size: 19px; }
-  .foot a { display: inline-block; padding: 6px 0; }
 }
 
 /* Vocabulary pages */

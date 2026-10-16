@@ -1,6 +1,6 @@
 // Study reminders: the server sends an empty push, the text is shown here.
 self.addEventListener('push', (event) => {
-  event.waitUntil(self.registration.showNotification('Habla — пора заниматься', {
+  event.waitUntil(self.registration.showNotification('Драго Райс — пора заниматься', {
     body: 'Хватит и одной минуты: пара заданий, и серия продолжается.',
     icon: '../favicon.svg',
     tag: 'habla-reminder',
