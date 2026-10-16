@@ -28,7 +28,7 @@
 - [Вопросительные слова в испанском](https://timvr13.github.io/habla-demo/grammatika/interrogativos/) (A0): Вопрос пишется между ¿ и ?, восклицание — между ¡ и !.
 - [Когда не понимаешь: фразы-спасатели в испанском](https://timvr13.github.io/habla-demo/grammatika/en-clase/) (A0): No entiendo — я не понимаю; No sé — я не знаю.
 - [Пожалуйста, спасибо, извините в испанском](https://timvr13.github.io/habla-demo/grammatika/cortesia/) (A0): Просим — por favor (пожалуйста), благодарим — gracias / muchas gracias, ответ — de nada (не за что).
-- [Я хочу… Сколько стоит? в испанском](https://timvr13.github.io/habla-demo/grammatika/quiero/) (A0): Quiero un café (я хочу кофе), ¿Quieres un té? (хочешь чаю?), Ana quiere una pizza (Ана хочет пиццу).
+- [Я хочу… Сколько стоит? в испанском](https://timvr13.github.io/habla-demo/grammatika/quiero/) (A0): Quiero un café (я хочу кофе), ¿Quieres agua? (хочешь воды?), Ana quiere un zumo (Ана хочет сок).
 - [Мне нравится / не нравится в испанском](https://timvr13.github.io/habla-demo/grammatika/me-gusta-basico/) (A0): Мне нравится — me gusta + el / la + вещь или + действие: Me gusta el café (Мне нравится кофе), Me gusta leer (Я люблю читать).
 - [Дни недели в испанском](https://timvr13.github.io/habla-demo/grammatika/dias-semana/) (A0): Дни пишут с маленькой буквы.
 - [Месяцы и даты в испанском](https://timvr13.github.io/habla-demo/grammatika/meses-fechas/) (A0): Дата: el + число + de + месяц: Hoy es el 5 de mayo (Сегодня пятое мая).
