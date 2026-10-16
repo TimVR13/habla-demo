@@ -1,6 +1,6 @@
 # Habla
 
-> Испанский язык для русскоговорящих: курс A0–C2, 106 тем грамматики с правилами и упражнениями, спряжение 399 глаголов, тренажёр артиклей.
+> Испанский язык для русскоговорящих: курс A0–C2, 107 тем грамматики с правилами и упражнениями, спряжение 399 глаголов, тренажёр артиклей.
 
 ## Разделы
 - [Грамматика](https://timvr13.github.io/habla-demo/grammatika/): все темы с правилами, тестами и упражнениями с ответами
@@ -13,6 +13,7 @@
 
 ## Темы грамматики
 - [Буквы и гласные в испанском](https://timvr13.github.io/habla-demo/grammatika/alfabeto/) (A0): Испанский читается так, как пишется.
+- [el и la: слово вместе с артиклем; одно и много в испанском](https://timvr13.github.io/habla-demo/grammatika/el-la/) (A0): Слово учим сразу с артиклем: «мужской род» на карточке — el, «женский род» — la: el limón (лимон), la mesa (стол).
 - [Как читаются согласные в испанском](https://timvr13.github.io/habla-demo/grammatika/consonantes/) (A0): h не читается: hola — «О-ла» (привет).
 - [Ударение и знак ´ в испанском](https://timvr13.github.io/habla-demo/grammatika/acento/) (A0): Слово кончается на гласную, n или s — ударение на предпоследний слог: CA-sa (дом), JO-ven (молодой).
 - [Приветствия и прощания в испанском](https://timvr13.github.io/habla-demo/grammatika/saludos/) (A0): Hola (привет) подходит всегда.
@@ -33,7 +34,7 @@
 - [Месяцы и даты в испанском](https://timvr13.github.io/habla-demo/grammatika/meses-fechas/) (A0): Дата: el + число + de + месяц: Hoy es el 5 de mayo (Сегодня пятое мая).
 - [Числа от 20 до 100 в испанском](https://timvr13.github.io/habla-demo/grammatika/numeros-20-100/) (A0): От 21 до 29 — одно слово: veintiuno, veintidós, veinticinco.
 - [Который час: первые шаги в испанском](https://timvr13.github.io/habla-demo/grammatika/hora-basica/) (A0): Час — es la una, остальные — son las dos, son las tres.
-- [Мой и твой: mi, tu, su в испанском](https://timvr13.github.io/habla-demo/grammatika/mi-tu/) (A0): Mi — мой, tu — твой, su — его, её, ваш.
+- [Мой и твой: mi, tu, su в испанском](https://timvr13.github.io/habla-demo/grammatika/mi-tu/) (A0): Mi — мой, tu — твой, su — его, её, ваш (одно слово для любого хозяина: Pablo y su madre, Ana y su madre).
 - [Анкета: имя, фамилия, адрес в испанском](https://timvr13.github.io/habla-demo/grammatika/datos-personales/) (A0): В анкете: nombre (имя), apellidos (фамилия; у испанцев их две), edad, nacionalidad, dirección (calle, número, piso, ciudad, código postal), teléfono, correo electrónico, estado civil (soltero / casado), firma.
 - [Короткое письмо и сообщение в испанском](https://timvr13.github.io/habla-demo/grammatika/mensajes/) (A0): Начало: Querido Pablo: (Дорогой Пабло!), Querida Ana: (Дорогая Ана!).
 - [Глагол ser в испанском](https://timvr13.github.io/habla-demo/grammatika/ser/) (A1): ser — «быть»: кто ты, откуда, какой.
