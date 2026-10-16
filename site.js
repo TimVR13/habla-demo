@@ -1,5 +1,13 @@
 // Public pages: example audio and the small test widget. No dependencies.
 (function () {
+  // Phones: the sections hide behind the burger button; without scripts they stay visible.
+  document.documentElement.classList.add('js');
+  var burger = document.querySelector('.burger');
+  if (burger) burger.addEventListener('click', function () {
+    var open = burger.getAttribute('aria-expanded') !== 'true';
+    burger.setAttribute('aria-expanded', String(open));
+    document.documentElement.classList.toggle('menu-open', open);
+  });
 
   var shuffle = function (a) { a = a.slice(); for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)); var t = a[i]; a[i] = a[j]; a[j] = t; } return a; };
   var h = function (tag, cls, text) { var el = document.createElement(tag); if (cls) el.className = cls; if (text != null) el.textContent = text; return el; };
