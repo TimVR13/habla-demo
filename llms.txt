@@ -1,6 +1,6 @@
 # Habla
 
-> Испанский язык для русскоговорящих: курс A1–C2, 82 тем грамматики с правилами и упражнениями, спряжение 399 глаголов, тренажёр артиклей.
+> Испанский язык для русскоговорящих: курс A0–C2, 106 тем грамматики с правилами и упражнениями, спряжение 399 глаголов, тренажёр артиклей.
 
 ## Разделы
 - [Грамматика](https://timvr13.github.io/habla-demo/grammatika/): все темы с правилами, тестами и упражнениями с ответами
@@ -8,10 +8,34 @@
 - [Спряжение глаголов](https://timvr13.github.io/habla-demo/spryazhenie/)
 - [Испанские слова](https://timvr13.github.io/habla-demo/slovo/): перевод, род, формы, примеры и тест к каждому слову
 - [Разговорник](https://timvr13.github.io/habla-demo/razgovornik/): фразы по ситуациям с переводом
-- [Курс](https://timvr13.github.io/habla-demo/app/): уроки A1–C2 с тестом на уровень
+- [Курс](https://timvr13.github.io/habla-demo/app/): уроки A0–C2 с тестом на уровень
 - [О проекте](https://timvr13.github.io/habla-demo/o-proekte/)
 
 ## Темы грамматики
+- [Буквы и гласные в испанском](https://timvr13.github.io/habla-demo/grammatika/alfabeto/) (A0): Испанский читается так, как пишется.
+- [Как читаются согласные в испанском](https://timvr13.github.io/habla-demo/grammatika/consonantes/) (A0): h не читается: hola — «О-ла» (привет).
+- [Ударение и знак ´ в испанском](https://timvr13.github.io/habla-demo/grammatika/acento/) (A0): Слово кончается на гласную, n или s — ударение на предпоследний слог: CA-sa (дом), JO-ven (молодой).
+- [Приветствия и прощания в испанском](https://timvr13.github.io/habla-demo/grammatika/saludos/) (A0): Hola (привет) подходит всегда.
+- [Как представиться: me llamo в испанском](https://timvr13.github.io/habla-demo/grammatika/me-llamo/) (A0): Me llamo Ana (меня зовут Ана), ¿Cómo te llamas? (как тебя зовут?), ¿Cómo se llama usted? (как вас зовут?), Se llama Pablo (его зовут Пабло).
+- [tú или usted в испанском](https://timvr13.github.io/habla-demo/grammatika/tu-usted/) (A0): Tú (ты) — другу, родным, детям, ровесникам: ¿Cómo estás? (как ты?), ¿Cómo te llamas? (как тебя зовут?).
+- [Я, ты, он, она: личные местоимения в испанском](https://timvr13.github.io/habla-demo/grammatika/pronombres/) (A0): yo (я), tú (ты), él (он), ella (она), usted (вы — одному), nosotros / nosotras (мы), ellos / ellas (они), ustedes (вы — нескольким).
+- [Откуда вы: soy de… в испанском](https://timvr13.github.io/habla-demo/grammatika/soy-de/) (A0): Soy de México (я из Мексики), Eres de Chile (ты из Чили), Es de Perú (он из Перу).
+- [Числа от 0 до 20 в испанском](https://timvr13.github.io/habla-demo/grammatika/numeros-0-20/) (A0): 0–15 — отдельные слова: cero, uno, dos… quince.
+- [Возраст: tengo … años в испанском](https://timvr13.github.io/habla-demo/grammatika/tengo-anos/) (A0): Возраст говорят через tengo / tienes / tiene + число + años: Tengo diez años (мне десять лет), ¿Cuántos años tienes? (сколько тебе лет?), Ana tiene ocho años (Ане восемь лет).
+- [Как пишется слово: буквы по-испански в испанском](https://timvr13.github.io/habla-demo/grammatika/deletrear/) (A0): Спросить: ¿Cómo se escribe? (как это пишется?), ¿Cómo se escribe tu apellido? (как пишется твоя фамилия?).
+- [Я живу, работаю, учусь в испанском](https://timvr13.github.io/habla-demo/grammatika/vivo-trabajo/) (A0): Я: vivo, trabajo, estudio; ты: vives, trabajas, estudias; он, она, вы (usted): vive, trabaja, estudia.
+- [Вопросительные слова в испанском](https://timvr13.github.io/habla-demo/grammatika/interrogativos/) (A0): Вопрос пишется между ¿ и ?, восклицание — между ¡ и !.
+- [Когда не понимаешь: фразы-спасатели в испанском](https://timvr13.github.io/habla-demo/grammatika/en-clase/) (A0): No entiendo — я не понимаю; No sé — я не знаю.
+- [Пожалуйста, спасибо, извините в испанском](https://timvr13.github.io/habla-demo/grammatika/cortesia/) (A0): Просим — por favor (пожалуйста), благодарим — gracias / muchas gracias, ответ — de nada (не за что).
+- [Я хочу… Сколько стоит? в испанском](https://timvr13.github.io/habla-demo/grammatika/quiero/) (A0): Quiero un café (я хочу кофе), ¿Quieres un té? (хочешь чаю?), Ana quiere una pizza (Ана хочет пиццу).
+- [Мне нравится / не нравится в испанском](https://timvr13.github.io/habla-demo/grammatika/me-gusta-basico/) (A0): Мне нравится — me gusta + el / la + вещь или + действие: Me gusta el café (Мне нравится кофе), Me gusta leer (Я люблю читать).
+- [Дни недели в испанском](https://timvr13.github.io/habla-demo/grammatika/dias-semana/) (A0): Дни пишут с маленькой буквы.
+- [Месяцы и даты в испанском](https://timvr13.github.io/habla-demo/grammatika/meses-fechas/) (A0): Дата: el + число + de + месяц: Hoy es el 5 de mayo (Сегодня пятое мая).
+- [Числа от 20 до 100 в испанском](https://timvr13.github.io/habla-demo/grammatika/numeros-20-100/) (A0): От 21 до 29 — одно слово: veintiuno, veintidós, veinticinco.
+- [Который час: первые шаги в испанском](https://timvr13.github.io/habla-demo/grammatika/hora-basica/) (A0): Час — es la una, остальные — son las dos, son las tres.
+- [Мой и твой: mi, tu, su в испанском](https://timvr13.github.io/habla-demo/grammatika/mi-tu/) (A0): Mi — мой, tu — твой, su — его, её, ваш.
+- [Анкета: имя, фамилия, адрес в испанском](https://timvr13.github.io/habla-demo/grammatika/datos-personales/) (A0): В анкете: nombre (имя), apellidos (фамилия; у испанцев их две), edad, nacionalidad, dirección (calle, número, piso, ciudad, código postal), teléfono, correo electrónico, estado civil (soltero / casado), firma.
+- [Короткое письмо и сообщение в испанском](https://timvr13.github.io/habla-demo/grammatika/mensajes/) (A0): Начало: Querido Pablo: (Дорогой Пабло!), Querida Ana: (Дорогая Ана!).
 - [Глагол ser в испанском](https://timvr13.github.io/habla-demo/grammatika/ser/) (A1): ser — «быть»: кто ты, откуда, какой.
 - [Артикли el, la, los, las в испанском](https://timvr13.github.io/habla-demo/grammatika/articles/) (A1): el — перед словом мужского рода, la — женского: el libro (книга), la casa (дом).
 - [Глагол tener в испанском](https://timvr13.github.io/habla-demo/grammatika/tener/) (A1): tener — «иметь, у меня есть»: tengo (у меня есть), tienes (у тебя), tiene (у него, у неё, у вас), tenemos (у нас), tienen (у них).
