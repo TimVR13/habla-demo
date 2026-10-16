@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://timvr13.github.io/habla-demo/sitemap.xml
